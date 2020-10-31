@@ -1,0 +1,1 @@
+web: gunicorn pyladiesapp.wsgi --log-file -
